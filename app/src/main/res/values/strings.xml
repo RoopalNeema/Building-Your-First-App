@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Myapp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Send</string>
+    <string name="editText">Enter the msg</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+</resources>
