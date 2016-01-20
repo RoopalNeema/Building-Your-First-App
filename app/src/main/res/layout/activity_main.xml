@@ -26,7 +26,7 @@
             android:layout_height="wrap_content"
             android:text="@string/button"
             android:id="@+id/button"
-            android:onClick="sendMessage"
+            android:onClick="send_Message"
             android:layout_gravity="center_horizontal" />
     </LinearLayout>
 </RelativeLayout>
